@@ -1,0 +1,123 @@
+{
+  "add_bos_token": true,
+  "add_eos_token": false,
+  "add_prefix_space": false,
+  "added_tokens_decoder": {
+    "0": {
+      "content": "<unk>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "1": {
+      "content": "<s>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "2": {
+      "content": "</s>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "32000": {
+      "content": "\t",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "32001": {
+      "content": "\n",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "32002": {
+      "content": "$",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "32003": {
+      "content": "<",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "32004": {
+      "content": "\\",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "32005": {
+      "content": "^",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "32006": {
+      "content": "`",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "32007": {
+      "content": "{",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "32008": {
+      "content": "}",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "32009": {
+      "content": "~",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    }
+  },
+  "bos_token": "<s>",
+  "clean_up_tokenization_spaces": false,
+  "eos_token": "</s>",
+  "extra_special_tokens": {},
+  "legacy": false,
+  "model_max_length": 1000000000000000019884624838656,
+  "pad_token": null,
+  "sp_model_kwargs": {},
+  "spaces_between_special_tokens": false,
+  "tokenizer_class": "LlamaTokenizer",
+  "unk_token": "<unk>",
+  "use_default_system_prompt": false
+}
