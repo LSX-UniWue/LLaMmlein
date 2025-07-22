@@ -98,7 +98,4 @@ Please make sure to add all paths correctly in the `.sh file`.
 
 
 ---
-### License
-We release the LLäMmlein models under a research-only RAIL-M license. See [license.md](./license.md) for details.
-
 ### Citation
